@@ -1,0 +1,97 @@
+/* menu */
+.navbar-expand-lg .navbar-nav .nav-link {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding-right: 2.5rem !important;
+}
+
+.navbar-expand-lg .navbar-toggler {
+  background-color: rgb(0, 0, 14);
+}
+
+/* Carrusel */
+
+#carrusel {
+  background-color: teal;
+}
+.slide {
+  padding: 15px 0 15px 0;
+}
+/* testimonios */
+
+#principal {
+  color: #242424;
+  background-color: #0a8f5c;
+  /* font: 400 48px Horizontal, arial; */
+  padding: 40px;
+}
+.paneles {
+  padding: 40 px 0;
+}
+
+.parrafo .card-text .text-muted {
+  color: black !important;
+}
+
+.imagen img {
+  padding-bottom: 10px;
+}
+
+/* videos */
+.videos {
+  box-shadow: 0px 8px 6px 0px rgb(87, 2, 2);
+}
+
+.reproductor {
+  padding: 30px 0 0 0;
+}
+
+/*contactos*/
+.contacto {
+  padding: 30px 0 0 0;
+  padding-bottom: 40px;
+}
+
+.list-group-item {
+  border: 1px solid white !important;
+}
+
+/* Numero de contactos*/
+/* .contacto {
+  padding: 30px 0 0 0;
+  padding-bottom: 40px;
+}
+.info p {
+  color: black;
+  text-align: center !important;
+}
+
+.correo p {
+  color: black;
+} */
+
+/* Footer */
+
+#footer {
+  background-color: #0a8f5c;
+}
+
+.text-dark img {
+  width: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 2px;
+}
+
+.raya {
+  background-color: white;
+  height: 10px;
+}
+.containerraya {
+  padding: 0 50px 0 50px;
+  background-color: #0a8f5c;
+}
+
+.derechos {
+  background-color: #0a8f5c;
+}
